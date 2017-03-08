@@ -4,6 +4,7 @@
     "keywords": ["email", "helper", "module", "library", "swiftmailer", "kohana", "ohanzee"],
     "homepage": "http://github.com/sudheesh001/email",
     "license": "BSD-3-Clause",
+    "version" : "2.0.2",
     "authors": [
         {
             "name": "Woody Gilk",
